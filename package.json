@@ -1,6 +1,6 @@
 {
   "name": "fingerprint-solution",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library untuk mendownload data Absensi dari Mesin fingerprint Solution",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,25 @@
   },
   "author": "Arham Anwar <arham.code@gmail.com> (https://arham.id/)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arhamcode/fingerprint-solution"
+  },
   "keywords": [
     "attendance",
     "fingerprint-solution"
   ],
+  "bugs": {
+    "url": "https://github.com/arhamcode/fingerprint-solution/issues"
+  },
+  "homepage": "https://github.com/arhamcode/fingerprint-solution",
   "dependencies": {
     "@types/xml2js": "^0.4.11",
     "axios": "^0.27.2",
     "sqlite3": "^5.0.8",
     "xml2js": "^0.4.23"
-  }
+  },
+  "contributors": [
+    "Arham Anwar (https://github.com/arhamcode)"
+  ]
 }
