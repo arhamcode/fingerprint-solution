@@ -23,7 +23,6 @@
   "dependencies": {
     "@types/xml2js": "^0.4.11",
     "axios": "^0.27.2",
-    "sqlite3": "^5.0.8",
     "xml2js": "^0.4.23"
   },
   "contributors": [
